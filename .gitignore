@@ -79,6 +79,4 @@ Thumbs.db
 /tests/phan/issues
 *.rej
 
-# Ignore this bc of security vulnerabilities
-
 extensions/PdfHandler/Gemfile.lock
