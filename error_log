@@ -1,0 +1,168 @@
+[14-Mar-2018 18:50:16 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/kalawalo/public_html/encyclopedia/LocalSettings.php on line 192
+[14-Mar-2018 18:50:17 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/kalawalo/public_html/encyclopedia/LocalSettings.php on line 192
+[14-Mar-2018 18:50:43 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/kalawalo/public_html/encyclopedia/LocalSettings.php on line 192
+[14-Mar-2018 18:51:28 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/kalawalo/public_html/encyclopedia/LocalSettings.php on line 192
+[14-Mar-2018 18:51:31 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/kalawalo/public_html/encyclopedia/LocalSettings.php on line 192
+[14-Mar-2018 18:52:16 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/kalawalo/public_html/encyclopedia/LocalSettings.php on line 191
+[14-Mar-2018 18:52:17 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/kalawalo/public_html/encyclopedia/LocalSettings.php on line 191
+[14-Mar-2018 18:52:17 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/kalawalo/public_html/encyclopedia/LocalSettings.php on line 191
+[14-Mar-2018 18:53:05 UTC] PHP Fatal error:  Uncaught Exception: /home/kalawalo/public_html/encyclopedia/extensions/TemplateData/extension.json does not exist! in /home/kalawalo/public_html/encyclopedia/includes/registration/ExtensionRegistry.php:99
+Stack trace:
+#0 /home/kalawalo/public_html/encyclopedia/includes/GlobalFunctions.php(120): ExtensionRegistry->queue('/home/kalawalo/...')
+#1 /home/kalawalo/public_html/encyclopedia/LocalSettings.php(152): wfLoadExtension('TemplateData')
+#2 /home/kalawalo/public_html/encyclopedia/includes/WebStart.php(102): require_once('/home/kalawalo/...')
+#3 /home/kalawalo/public_html/encyclopedia/index.php(40): require('/home/kalawalo/...')
+#4 {main}
+  thrown in /home/kalawalo/public_html/encyclopedia/includes/registration/ExtensionRegistry.php on line 99
+[14-Mar-2018 18:53:06 UTC] PHP Fatal error:  Uncaught Exception: /home/kalawalo/public_html/encyclopedia/extensions/TemplateData/extension.json does not exist! in /home/kalawalo/public_html/encyclopedia/includes/registration/ExtensionRegistry.php:99
+Stack trace:
+#0 /home/kalawalo/public_html/encyclopedia/includes/GlobalFunctions.php(120): ExtensionRegistry->queue('/home/kalawalo/...')
+#1 /home/kalawalo/public_html/encyclopedia/LocalSettings.php(152): wfLoadExtension('TemplateData')
+#2 /home/kalawalo/public_html/encyclopedia/includes/WebStart.php(102): require_once('/home/kalawalo/...')
+#3 /home/kalawalo/public_html/encyclopedia/index.php(40): require('/home/kalawalo/...')
+#4 {main}
+  thrown in /home/kalawalo/public_html/encyclopedia/includes/registration/ExtensionRegistry.php on line 99
+[14-Mar-2018 18:53:06 UTC] PHP Fatal error:  Uncaught Exception: /home/kalawalo/public_html/encyclopedia/extensions/TemplateData/extension.json does not exist! in /home/kalawalo/public_html/encyclopedia/includes/registration/ExtensionRegistry.php:99
+Stack trace:
+#0 /home/kalawalo/public_html/encyclopedia/includes/GlobalFunctions.php(120): ExtensionRegistry->queue('/home/kalawalo/...')
+#1 /home/kalawalo/public_html/encyclopedia/LocalSettings.php(152): wfLoadExtension('TemplateData')
+#2 /home/kalawalo/public_html/encyclopedia/includes/WebStart.php(102): require_once('/home/kalawalo/...')
+#3 /home/kalawalo/public_html/encyclopedia/index.php(40): require('/home/kalawalo/...')
+#4 {main}
+  thrown in /home/kalawalo/public_html/encyclopedia/includes/registration/ExtensionRegistry.php on line 99
+[14-Mar-2018 18:53:07 UTC] PHP Fatal error:  Uncaught Exception: /home/kalawalo/public_html/encyclopedia/extensions/TemplateData/extension.json does not exist! in /home/kalawalo/public_html/encyclopedia/includes/registration/ExtensionRegistry.php:99
+Stack trace:
+#0 /home/kalawalo/public_html/encyclopedia/includes/GlobalFunctions.php(120): ExtensionRegistry->queue('/home/kalawalo/...')
+#1 /home/kalawalo/public_html/encyclopedia/LocalSettings.php(152): wfLoadExtension('TemplateData')
+#2 /home/kalawalo/public_html/encyclopedia/includes/WebStart.php(102): require_once('/home/kalawalo/...')
+#3 /home/kalawalo/public_html/encyclopedia/index.php(40): require('/home/kalawalo/...')
+#4 {main}
+  thrown in /home/kalawalo/public_html/encyclopedia/includes/registration/ExtensionRegistry.php on line 99
+[14-Mar-2018 18:57:17 UTC] PHP Fatal error:  Uncaught Exception: /home/kalawalo/public_html/encyclopedia/extensions/TemplateData/extension.json does not exist! in /home/kalawalo/public_html/encyclopedia/includes/registration/ExtensionRegistry.php:99
+Stack trace:
+#0 /home/kalawalo/public_html/encyclopedia/includes/GlobalFunctions.php(120): ExtensionRegistry->queue('/home/kalawalo/...')
+#1 /home/kalawalo/public_html/encyclopedia/LocalSettings.php(152): wfLoadExtension('TemplateData')
+#2 /home/kalawalo/public_html/encyclopedia/includes/WebStart.php(102): require_once('/home/kalawalo/...')
+#3 /home/kalawalo/public_html/encyclopedia/index.php(40): require('/home/kalawalo/...')
+#4 {main}
+  thrown in /home/kalawalo/public_html/encyclopedia/includes/registration/ExtensionRegistry.php on line 99
+[14-Mar-2018 18:57:18 UTC] PHP Fatal error:  Uncaught Exception: /home/kalawalo/public_html/encyclopedia/extensions/TemplateData/extension.json does not exist! in /home/kalawalo/public_html/encyclopedia/includes/registration/ExtensionRegistry.php:99
+Stack trace:
+#0 /home/kalawalo/public_html/encyclopedia/includes/GlobalFunctions.php(120): ExtensionRegistry->queue('/home/kalawalo/...')
+#1 /home/kalawalo/public_html/encyclopedia/LocalSettings.php(152): wfLoadExtension('TemplateData')
+#2 /home/kalawalo/public_html/encyclopedia/includes/WebStart.php(102): require_once('/home/kalawalo/...')
+#3 /home/kalawalo/public_html/encyclopedia/index.php(40): require('/home/kalawalo/...')
+#4 {main}
+  thrown in /home/kalawalo/public_html/encyclopedia/includes/registration/ExtensionRegistry.php on line 99
+[14-Mar-2018 18:58:27 UTC] PHP Fatal error:  Uncaught Exception: /home/kalawalo/public_html/encyclopedia/extensions/TemplateData/extension.json does not exist! in /home/kalawalo/public_html/encyclopedia/includes/registration/ExtensionRegistry.php:99
+Stack trace:
+#0 /home/kalawalo/public_html/encyclopedia/includes/GlobalFunctions.php(120): ExtensionRegistry->queue('/home/kalawalo/...')
+#1 /home/kalawalo/public_html/encyclopedia/LocalSettings.php(152): wfLoadExtension('TemplateData')
+#2 /home/kalawalo/public_html/encyclopedia/includes/WebStart.php(102): require_once('/home/kalawalo/...')
+#3 /home/kalawalo/public_html/encyclopedia/index.php(40): require('/home/kalawalo/...')
+#4 {main}
+  thrown in /home/kalawalo/public_html/encyclopedia/includes/registration/ExtensionRegistry.php on line 99
+[14-Mar-2018 18:58:28 UTC] PHP Fatal error:  Uncaught Exception: /home/kalawalo/public_html/encyclopedia/extensions/TemplateData/extension.json does not exist! in /home/kalawalo/public_html/encyclopedia/includes/registration/ExtensionRegistry.php:99
+Stack trace:
+#0 /home/kalawalo/public_html/encyclopedia/includes/GlobalFunctions.php(120): ExtensionRegistry->queue('/home/kalawalo/...')
+#1 /home/kalawalo/public_html/encyclopedia/LocalSettings.php(152): wfLoadExtension('TemplateData')
+#2 /home/kalawalo/public_html/encyclopedia/includes/WebStart.php(102): require_once('/home/kalawalo/...')
+#3 /home/kalawalo/public_html/encyclopedia/index.php(40): require('/home/kalawalo/...')
+#4 {main}
+  thrown in /home/kalawalo/public_html/encyclopedia/includes/registration/ExtensionRegistry.php on line 99
+[14-Mar-2018 18:58:28 UTC] PHP Fatal error:  Uncaught Exception: /home/kalawalo/public_html/encyclopedia/extensions/TemplateData/extension.json does not exist! in /home/kalawalo/public_html/encyclopedia/includes/registration/ExtensionRegistry.php:99
+Stack trace:
+#0 /home/kalawalo/public_html/encyclopedia/includes/GlobalFunctions.php(120): ExtensionRegistry->queue('/home/kalawalo/...')
+#1 /home/kalawalo/public_html/encyclopedia/LocalSettings.php(152): wfLoadExtension('TemplateData')
+#2 /home/kalawalo/public_html/encyclopedia/includes/WebStart.php(102): require_once('/home/kalawalo/...')
+#3 /home/kalawalo/public_html/encyclopedia/index.php(40): require('/home/kalawalo/...')
+#4 {main}
+  thrown in /home/kalawalo/public_html/encyclopedia/includes/registration/ExtensionRegistry.php on line 99
+[14-Mar-2018 18:58:28 UTC] PHP Fatal error:  Uncaught Exception: /home/kalawalo/public_html/encyclopedia/extensions/TemplateData/extension.json does not exist! in /home/kalawalo/public_html/encyclopedia/includes/registration/ExtensionRegistry.php:99
+Stack trace:
+#0 /home/kalawalo/public_html/encyclopedia/includes/GlobalFunctions.php(120): ExtensionRegistry->queue('/home/kalawalo/...')
+#1 /home/kalawalo/public_html/encyclopedia/LocalSettings.php(152): wfLoadExtension('TemplateData')
+#2 /home/kalawalo/public_html/encyclopedia/includes/WebStart.php(102): require_once('/home/kalawalo/...')
+#3 /home/kalawalo/public_html/encyclopedia/index.php(40): require('/home/kalawalo/...')
+#4 {main}
+  thrown in /home/kalawalo/public_html/encyclopedia/includes/registration/ExtensionRegistry.php on line 99
+[14-Mar-2018 18:58:29 UTC] PHP Fatal error:  Uncaught Exception: /home/kalawalo/public_html/encyclopedia/extensions/TemplateData/extension.json does not exist! in /home/kalawalo/public_html/encyclopedia/includes/registration/ExtensionRegistry.php:99
+Stack trace:
+#0 /home/kalawalo/public_html/encyclopedia/includes/GlobalFunctions.php(120): ExtensionRegistry->queue('/home/kalawalo/...')
+#1 /home/kalawalo/public_html/encyclopedia/LocalSettings.php(152): wfLoadExtension('TemplateData')
+#2 /home/kalawalo/public_html/encyclopedia/includes/WebStart.php(102): require_once('/home/kalawalo/...')
+#3 /home/kalawalo/public_html/encyclopedia/index.php(40): require('/home/kalawalo/...')
+#4 {main}
+  thrown in /home/kalawalo/public_html/encyclopedia/includes/registration/ExtensionRegistry.php on line 99
+[14-Mar-2018 18:58:29 UTC] PHP Fatal error:  Uncaught Exception: /home/kalawalo/public_html/encyclopedia/extensions/TemplateData/extension.json does not exist! in /home/kalawalo/public_html/encyclopedia/includes/registration/ExtensionRegistry.php:99
+Stack trace:
+#0 /home/kalawalo/public_html/encyclopedia/includes/GlobalFunctions.php(120): ExtensionRegistry->queue('/home/kalawalo/...')
+#1 /home/kalawalo/public_html/encyclopedia/LocalSettings.php(152): wfLoadExtension('TemplateData')
+#2 /home/kalawalo/public_html/encyclopedia/includes/WebStart.php(102): require_once('/home/kalawalo/...')
+#3 /home/kalawalo/public_html/encyclopedia/index.php(40): require('/home/kalawalo/...')
+#4 {main}
+  thrown in /home/kalawalo/public_html/encyclopedia/includes/registration/ExtensionRegistry.php on line 99
+[14-Mar-2018 18:58:29 UTC] PHP Fatal error:  Uncaught Exception: /home/kalawalo/public_html/encyclopedia/extensions/TemplateData/extension.json does not exist! in /home/kalawalo/public_html/encyclopedia/includes/registration/ExtensionRegistry.php:99
+Stack trace:
+#0 /home/kalawalo/public_html/encyclopedia/includes/GlobalFunctions.php(120): ExtensionRegistry->queue('/home/kalawalo/...')
+#1 /home/kalawalo/public_html/encyclopedia/LocalSettings.php(152): wfLoadExtension('TemplateData')
+#2 /home/kalawalo/public_html/encyclopedia/includes/WebStart.php(102): require_once('/home/kalawalo/...')
+#3 /home/kalawalo/public_html/encyclopedia/index.php(40): require('/home/kalawalo/...')
+#4 {main}
+  thrown in /home/kalawalo/public_html/encyclopedia/includes/registration/ExtensionRegistry.php on line 99
+[14-Mar-2018 18:58:30 UTC] PHP Fatal error:  Uncaught Exception: /home/kalawalo/public_html/encyclopedia/extensions/TemplateData/extension.json does not exist! in /home/kalawalo/public_html/encyclopedia/includes/registration/ExtensionRegistry.php:99
+Stack trace:
+#0 /home/kalawalo/public_html/encyclopedia/includes/GlobalFunctions.php(120): ExtensionRegistry->queue('/home/kalawalo/...')
+#1 /home/kalawalo/public_html/encyclopedia/LocalSettings.php(152): wfLoadExtension('TemplateData')
+#2 /home/kalawalo/public_html/encyclopedia/includes/WebStart.php(102): require_once('/home/kalawalo/...')
+#3 /home/kalawalo/public_html/encyclopedia/index.php(40): require('/home/kalawalo/...')
+#4 {main}
+  thrown in /home/kalawalo/public_html/encyclopedia/includes/registration/ExtensionRegistry.php on line 99
+[14-Mar-2018 18:59:05 UTC] PHP Fatal error:  Uncaught Exception: /home/kalawalo/public_html/encyclopedia/extensions/TemplateData/extension.json does not exist! in /home/kalawalo/public_html/encyclopedia/includes/registration/ExtensionRegistry.php:99
+Stack trace:
+#0 /home/kalawalo/public_html/encyclopedia/includes/GlobalFunctions.php(120): ExtensionRegistry->queue('/home/kalawalo/...')
+#1 /home/kalawalo/public_html/encyclopedia/LocalSettings.php(152): wfLoadExtension('TemplateData')
+#2 /home/kalawalo/public_html/encyclopedia/includes/WebStart.php(102): require_once('/home/kalawalo/...')
+#3 /home/kalawalo/public_html/encyclopedia/index.php(40): require('/home/kalawalo/...')
+#4 {main}
+  thrown in /home/kalawalo/public_html/encyclopedia/includes/registration/ExtensionRegistry.php on line 99
+[14-Mar-2018 18:59:05 UTC] PHP Fatal error:  Uncaught Exception: /home/kalawalo/public_html/encyclopedia/extensions/TemplateData/extension.json does not exist! in /home/kalawalo/public_html/encyclopedia/includes/registration/ExtensionRegistry.php:99
+Stack trace:
+#0 /home/kalawalo/public_html/encyclopedia/includes/GlobalFunctions.php(120): ExtensionRegistry->queue('/home/kalawalo/...')
+#1 /home/kalawalo/public_html/encyclopedia/LocalSettings.php(152): wfLoadExtension('TemplateData')
+#2 /home/kalawalo/public_html/encyclopedia/includes/WebStart.php(102): require_once('/home/kalawalo/...')
+#3 /home/kalawalo/public_html/encyclopedia/index.php(40): require('/home/kalawalo/...')
+#4 {main}
+  thrown in /home/kalawalo/public_html/encyclopedia/includes/registration/ExtensionRegistry.php on line 99
+[14-Mar-2018 18:59:07 UTC] PHP Fatal error:  Uncaught Exception: /home/kalawalo/public_html/encyclopedia/extensions/TemplateData/extension.json does not exist! in /home/kalawalo/public_html/encyclopedia/includes/registration/ExtensionRegistry.php:99
+Stack trace:
+#0 /home/kalawalo/public_html/encyclopedia/includes/GlobalFunctions.php(120): ExtensionRegistry->queue('/home/kalawalo/...')
+#1 /home/kalawalo/public_html/encyclopedia/LocalSettings.php(152): wfLoadExtension('TemplateData')
+#2 /home/kalawalo/public_html/encyclopedia/includes/WebStart.php(102): require_once('/home/kalawalo/...')
+#3 /home/kalawalo/public_html/encyclopedia/index.php(40): require('/home/kalawalo/...')
+#4 {main}
+  thrown in /home/kalawalo/public_html/encyclopedia/includes/registration/ExtensionRegistry.php on line 99
+[14-Mar-2018 18:59:37 UTC] PHP Fatal error:  Uncaught Exception: /home/kalawalo/public_html/encyclopedia/extensions/TemplateData/extension.json does not exist! in /home/kalawalo/public_html/encyclopedia/includes/registration/ExtensionRegistry.php:99
+Stack trace:
+#0 /home/kalawalo/public_html/encyclopedia/includes/GlobalFunctions.php(120): ExtensionRegistry->queue('/home/kalawalo/...')
+#1 /home/kalawalo/public_html/encyclopedia/LocalSettings.php(152): wfLoadExtension('TemplateData')
+#2 /home/kalawalo/public_html/encyclopedia/includes/WebStart.php(102): require_once('/home/kalawalo/...')
+#3 /home/kalawalo/public_html/encyclopedia/index.php(40): require('/home/kalawalo/...')
+#4 {main}
+  thrown in /home/kalawalo/public_html/encyclopedia/includes/registration/ExtensionRegistry.php on line 99
+[14-Mar-2018 18:59:38 UTC] PHP Fatal error:  Uncaught Exception: /home/kalawalo/public_html/encyclopedia/extensions/TemplateData/extension.json does not exist! in /home/kalawalo/public_html/encyclopedia/includes/registration/ExtensionRegistry.php:99
+Stack trace:
+#0 /home/kalawalo/public_html/encyclopedia/includes/GlobalFunctions.php(120): ExtensionRegistry->queue('/home/kalawalo/...')
+#1 /home/kalawalo/public_html/encyclopedia/LocalSettings.php(152): wfLoadExtension('TemplateData')
+#2 /home/kalawalo/public_html/encyclopedia/includes/WebStart.php(102): require_once('/home/kalawalo/...')
+#3 /home/kalawalo/public_html/encyclopedia/index.php(40): require('/home/kalawalo/...')
+#4 {main}
+  thrown in /home/kalawalo/public_html/encyclopedia/includes/registration/ExtensionRegistry.php on line 99
+[14-Mar-2018 18:59:39 UTC] PHP Fatal error:  Uncaught Exception: /home/kalawalo/public_html/encyclopedia/extensions/TemplateData/extension.json does not exist! in /home/kalawalo/public_html/encyclopedia/includes/registration/ExtensionRegistry.php:99
+Stack trace:
+#0 /home/kalawalo/public_html/encyclopedia/includes/GlobalFunctions.php(120): ExtensionRegistry->queue('/home/kalawalo/...')
+#1 /home/kalawalo/public_html/encyclopedia/LocalSettings.php(152): wfLoadExtension('TemplateData')
+#2 /home/kalawalo/public_html/encyclopedia/includes/WebStart.php(102): require_once('/home/kalawalo/...')
+#3 /home/kalawalo/public_html/encyclopedia/index.php(40): require('/home/kalawalo/...')
+#4 {main}
+  thrown in /home/kalawalo/public_html/encyclopedia/includes/registration/ExtensionRegistry.php on line 99
